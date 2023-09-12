@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Catherine</h1>
 <h3 align="center">I'm transitioning from marketing to data science</h3>
 
+- 🚲I worked on a bike availability prediction tool [London Bike Sharing System](https://github.com/elsebasmar/london-bss/commit/5b1bf19e76243ba65ed4dfe928a79413d64932fd)
+
 - 🌱 I’m currently learning **Python and machine learning**
 
 <h3 align="left">Languages and Tools:</h3>
